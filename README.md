@@ -30,7 +30,7 @@
     </tr>
   </table>
 
-  ### 👨‍💻 Full Stack Engineer (MERN, C++) | Building Scalable Tech @CatCatchCode | B.Tech CSE @ VIT ’26 | Open to SDE Internships 🚀!!
+  ### 👨‍💻 Full Stack Engineer (MERN, C++) | Building Scalable Tech @CatCatchCode | B.Tech CSE @ VIT ’26 | Open to SDE Internships 🚀!!!!
 
   ---
 
